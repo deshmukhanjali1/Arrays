@@ -1,2 +1,0 @@
-# Arrays
-Basic array programs
